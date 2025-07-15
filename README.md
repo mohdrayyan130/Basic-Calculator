@@ -1,6 +1,6 @@
 # Simple Calculator
 
-This is my first solo project — a basic calculator built using **HTML**, **CSS**, and **JavaScript**.  
+This is my first solo project || a basic calculator built using **HTML**, **CSS**, and **JavaScript**.  
 
 I created it as part of my learning journey !!
 
@@ -33,9 +33,6 @@ I created it as part of my learning journey !!
 
 ---
 
-
----
-
 ## 🌐 Live Demo
 
 Coming soon on GitHub Pages!
@@ -44,7 +41,7 @@ Coming soon on GitHub Pages!
 
 ## 👤 Author
 
-**[Mohd Rayyan]**
+**Mohd Rayyan**
 
 ---
 
