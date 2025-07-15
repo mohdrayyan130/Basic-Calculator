@@ -39,6 +39,13 @@ Coming soon on GitHub Pages!
 
 ---
 
+## 🖼️ Screenshot
+
+![Calculator Screenshot]([screenshot.png](https://github.com/mohdrayyan130/Basic-Calculator/blob/c93d1915bd0f39e5f29502deb9479543e9c86a10/screenshot.jpg
+))
+
+---
+
 ## 👤 Author
 
 **Mohd Rayyan**
