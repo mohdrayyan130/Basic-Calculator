@@ -47,5 +47,5 @@ Coming soon on GitHub Pages!
 
 ## 🏁 Status
 
-✅ Completed — first deployed project!
+✅ Completed || first deployed project!
 
