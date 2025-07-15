@@ -41,8 +41,7 @@ Coming soon on GitHub Pages!
 
 ## 🖼️ Screenshot
 
-![Calculator Screenshot]([screenshot.png](https://github.com/mohdrayyan130/Basic-Calculator/blob/c93d1915bd0f39e5f29502deb9479543e9c86a10/screenshot.jpg
-))
+![image_alt](https://github.com/mohdrayyan130/Basic-Calculator/blob/4b4e7f991c8bcf5f8d5e8a3986acbce75cbe5e46/screenshot.jpg)
 
 ---
 
