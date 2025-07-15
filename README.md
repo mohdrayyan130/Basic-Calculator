@@ -35,7 +35,7 @@ I created it as part of my learning journey !!
 
 ## 🌐 Live Demo
 
-Coming soon on GitHub Pages!
+ Click - (https://mohdrayyan130.github.io/Basic-Calculator/)
 
 ---
 
